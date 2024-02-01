@@ -13,7 +13,7 @@ Extract product description, price, and availability from a website and save out
 >
 > 3) click on 'What is my user agent?'
 >    
-> 5) then just copy the entire line
+> 5) copy the entire line & modify Headers
 >
 > ![2](https://github.com/tuanlamit/python-web-crawler-app/assets/128099142/8ad05150-5638-4e3e-9478-dda864ff6e82)
 
