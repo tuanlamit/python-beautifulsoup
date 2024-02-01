@@ -16,6 +16,8 @@ Extract product description, price, and availability from a website and save out
 > 5) copy the entire line & modify Headers in the source code
 >
 > ![2](https://github.com/tuanlamit/python-web-crawler-app/assets/128099142/8ad05150-5638-4e3e-9478-dda864ff6e82)
+>
+> And also, the attributes might differ from different websites
 
 Working Directory & Result:
 
