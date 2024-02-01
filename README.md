@@ -1,7 +1,7 @@
 # python-web-crawler-app
 Extract product description, price, and availability from a website and save outputs to a .csv file
 
-> [NOTE]
+> [!NOTE]
 >
 > Modification to the Header field is needed depending on the type of browser your using
 >
