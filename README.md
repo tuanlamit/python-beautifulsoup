@@ -3,7 +3,7 @@ Extract product description, price, and availability from a website and save out
 
 > [!NOTE]
 >
-> Modification to the user-agent is needed depending on the type of browser your using
+> Modification to the user-agent is needed depending on the type of browser you're using
 >
 > To determine:
 >
