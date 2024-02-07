@@ -1,4 +1,4 @@
-# python-web-crawler-app
+# Python Web Scraping With Beautiful Soup
 Extract product description, price, and availability from a website and save outputs to a .csv file
 
 > [!NOTE]
